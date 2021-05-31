@@ -1,22 +1,111 @@
 body {
-  background-color: #f1fefe;
-  margin:0px;
-}
-.navbar {
-  
+  background-color: #edfafa;
+  margin: 0px;
 }
 
-.nav-link{
-    width: 43px;
-    height: 21px;
-    margin: 17.5px 49px 7px 160px;
-    font-family: LibreBaskerville;
-    font-size: 16px;
-    font-weight: normal;
-    font-stretch: normal;
-    font-style: normal;
-    line-height: 1.31;
-    letter-spacing: normal;
-    text-align: left;
-    color: #374b5c;
+.Healthy-life-with {
+  width: 256px;
+  margin: 60px 308px 10px 0;
+  font-family: LibreBaskerville;
+  font-size: 36px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.33;
+  letter-spacing: normal;
+  text-align: left;
+  color: #374b5c;
+}
+
+.Nature-Organic {
+  width: 404px;
+  margin: 1px 160px 5px 0;
+  font-family: LibreBaskerville;
+  font-size: 56px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.32;
+  letter-spacing: normal;
+  text-align: left;
+  color: #374b5c;
+}
+
+.paragraph {
+  width: 389px;
+  margin: 10px 175px 27px 0;
+  font-family: LibreBaskerville;
+  font-size: 20px;
+  line-height: 1.35;
+  color: #374b5c;
+  text-align: center;
+}
+
+.nav-link {
+  font-family: LibreBaskerville;
+  font-size: 20px;
+  font-weight: normal;
+  font-stretch: normal;
+  margin-right: 0.2em;
+  font-style: normal;
+  line-height: 2.31;
+  color: #374b5c;
+  text-align: right;
+}
+
+.contact {
+  border-radius: 10px;
+  border: solid 2px #00dbd0;
+  width: 100px;
+  text-align: center;
+}
+
+.organic {
+  font-family: LibreBaskerville;
+  font-size: 42px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  color: #374b5c;
+}
+
+.flower-image {
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-template-rows: 1fr;
+  grid-template-areas: "overlap";
+}
+
+.image-43 {
+  margin-right: 10px;
+  width: 419px;
+  height: 570px;
+}
+
+.Rectangle-43 {
+  width: 395px;
+  height: 386px;
+  margin: 11px 17px 0 86.7px;
+  padding: 10px 16px 10px 16px;
+  background-color: white;
+  margin: 0 auto;
+}
+
+.Rectangle-44 {
+  width: 350px;
+  height: 340px;
+  padding: 64.5px 65.3px 65px 66px;
+  border: solid 3px #00dbd0;
+  margin: 4% auto;
+}
+
+.Welcome-to-Nature {
+  font-family: LibreBaskerville;
+  font-size: 36px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  letter-spacing: normal;
+  text-align: center;
+  color: #374b5c;
 }
