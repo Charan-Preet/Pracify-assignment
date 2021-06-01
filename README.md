@@ -9,11 +9,18 @@
 ### This project is created as an test assignment for the selection process of the intern at [Pracify](https://pracify.com/)
 #### Check out the [live demo of the website](https://heuristic-jackson-89c0f4.netlify.app/)
 
-![website image](https://i.postimg.cc/xT62Dv2p/Screenshot-20210601-091455.png)
+![website image](https://i.postimg.cc/D0WqvQNQ/1.png)
 
-![website image 2](https://i.postimg.cc/RCQmGrbB/2.png)
+![website image 2](https://i.postimg.cc/DzBs1Ykd/Screenshot-2021-06-01-React-App.png)
 
-![website image 3](https://i.postimg.cc/L69pbyrZ/3.png)
+![website image 3](https://i.postimg.cc/mZqYdqcm/Screenshot-2021-06-01-React-App-1.png)
 
-![website image 4](https://i.postimg.cc/rwzL8DyV/4.png)
+![website image 4](https://i.postimg.cc/R0MK6x8Z/Screenshot-2021-06-01-React-App-2.png)
+
+### Technology Used:
+1. React
+2. CSS
+3. HTML
+4. JAVASCRIPT
+5. TACHYONS
 
