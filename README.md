@@ -17,6 +17,8 @@
 
 ![website image 4](https://i.postimg.cc/R0MK6x8Z/Screenshot-2021-06-01-React-App-2.png)
 
+![website footer](https://i.postimg.cc/g2BLJLvN/final.png)
+
 ### Technology Used:
 1. React
 2. CSS
